@@ -45,4 +45,14 @@
         text-align: center; 
         background-color: skyblue;
     }
+    footer {
+        text-align: center;
+    }
+    footer p {
+        font-weight: bold;
+    }
+    footer a {
+        text-align: center;
+    }
+    
     
