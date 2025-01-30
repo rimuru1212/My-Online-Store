@@ -49,16 +49,16 @@
         margin: 0 auto; 
         max-width: 600px;
     }
-    promos {
+    #Promos {
         text-align: center; 
-        background-color: azure;
+        background-color: rgb(26, 121, 46);
     }
     .n4 {
         margin: 0 auto; 
         max-width: 600px;
     }
-    contact {
-        text-align: right;
+    #contact {
+        text-align: left;
         background-color: gray;
     }
     .n5 {
@@ -67,6 +67,7 @@
     }
     footer {
         text-align: center;
+        background-color: blue;
     }
     footer p {
         font-weight: bold;
