@@ -45,6 +45,26 @@
         text-align: center; 
         background-color: skyblue;
     }
+    .n3 {
+        margin: 0 auto; 
+        max-width: 600px;
+    }
+    promos {
+        text-align: center; 
+        background-color: azure;
+    }
+    .n4 {
+        margin: 0 auto; 
+        max-width: 600px;
+    }
+    contact {
+        text-align: right;
+        background-color: gray;
+    }
+    .n5 {
+        margin: 0 auto; 
+        max-width: 600px;
+    }
     footer {
         text-align: center;
     }
